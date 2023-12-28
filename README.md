@@ -8,6 +8,7 @@ Features:
 Instrument Definition: Utilizes a simple waveform generator (vco2) and an amplitude envelope (linseg and expseg).
 Score Events: Represents the melody with a sequence of note events, specifying pitch, duration, and amplitude.
 CsoundQt Integration: Developed using the CsoundQt IDE for an interactive and visual composition experience.
+
 How to Explore:
 Clone the repository to your local machine.
 Open the Csound script in the CsoundQt IDE.
